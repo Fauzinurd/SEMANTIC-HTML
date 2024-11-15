@@ -12,8 +12,8 @@ Latihan Praktikum 1 Semantic
 3. Pada Margin body ang diatur ke 10px, yang juga mempengaruhi tata letak.
 --
 **KESIMPUPLAM**
-1. Menyertakan tautan ke file csseksternal di bagian <head> dari  HTML
-2. Mengatur Tinggi Body ke 100vh (100% viewport) dan mengatur margin body ke 0
+. Menyertakan tautan ke file csseksternal di bagian <head> dari  HTML
+. Mengatur Tinggi Body ke 100vh (100% viewport) dan mengatur margin body ke 0
    dalam css untuk menghindari tata letak yang tidak diinginkan
 
    
