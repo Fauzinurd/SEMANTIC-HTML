@@ -10,6 +10,7 @@ Latihan Praktikum 1 Semantic
    <link rel="stylesheet" href="./asset/style.css"> baru bisa diterapkan 
 2. Pada source code css dalam modul tinggi body diatur ke 100px dan ini akan            menyebabkan tata letak halaman yang tidak sesuai.
 3. Pada Margin body ang diatur ke 10px, yang juga mempengaruhi tata letak.
+   
 --
 **KESIMPUPLAM**
 - Menyertakan tautan ke file csseksternal di bagian <head> dari  HTML
